@@ -13,7 +13,7 @@ require (
 	github.com/gorilla/websocket v1.5.3
 	github.com/maruel/natural v1.1.1
 	github.com/marusama/semaphore/v2 v2.5.0
-	github.com/aguidirh/archiver v0.0.0
+	github.com/mholt/archiver/v3 v3.5.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pelletier/go-toml/v2 v2.2.3
 	github.com/shirou/gopsutil/v3 v3.24.5
